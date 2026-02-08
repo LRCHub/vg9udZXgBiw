@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Heroine",
+  "base_artist": "RIRIKO",
+  "createdAt": "2026-02-08T09:00:49.200148Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Heroine",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/01_The_Heroine_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heroine",
+      "artist": "Little Boots",
+      "has_synced": false,
+      "path": "select/02_Heroine_Little_Boots.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heroine",
+      "artist": "Blonde Redhead",
+      "has_synced": true,
+      "path": "select/03_Heroine_Blonde_Redhead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Radio Heroine",
+      "artist": "Flowing Tears",
+      "has_synced": false,
+      "path": "select/04_Radio_Heroine_Flowing_Tears.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "She's My Heroine",
+      "artist": "Skunk Anansie",
+      "has_synced": false,
+      "path": "select/05_She's_My_Heroine_Skunk_Anansie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heroine",
+      "artist": "Shakespears Sister",
+      "has_synced": false,
+      "path": "select/06_Heroine_Shakespears_Sister.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heroine",
+      "artist": "The Edge feat. Sinéad O'Connor & Steve Lillywhite",
+      "has_synced": true,
+      "path": "select/07_Heroine_The_Edge_feat._Sinéad_O'Connor_&_Steve_Lillywhite.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Heroine",
+      "artist": "Sinéad O’Connor",
+      "has_synced": true,
+      "path": "select/08_Heroine_Sinéad_O’Connor.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heroine (theme from “Captive”)",
+      "artist": "The Edge feat. Sinéad O’Connor",
+      "has_synced": false,
+      "path": "select/09_Heroine_(theme_from_“Captive”)_The_Edge_feat._Sinéad_O’Connor.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heroine (Theme From 'Captive')",
+      "artist": "The Edge",
+      "has_synced": false,
+      "path": "select/10_Heroine_(Theme_From_'Captive')_The_Edge.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heroine (theme from ‘Captive’)",
+      "artist": "The Edge",
+      "has_synced": false,
+      "path": "select/11_Heroine_(theme_from_‘Captive’)_The_Edge.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Heroine - Live",
+      "artist": "Suede",
+      "has_synced": false,
+      "path": "select/12_Heroine_-_Live_Suede.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Heroine",
+      "artist": "Suede",
+      "has_synced": false,
+      "path": "select/13_Heroine_Suede.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Heroine",
+      "artist": "Asia",
+      "has_synced": true,
+      "path": "select/14_Heroine_Asia.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Future Heroine",
+      "artist": "Ecca Vandal",
+      "has_synced": true,
+      "path": "select/15_Future_Heroine_Ecca_Vandal.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Unsung Heroine",
+      "artist": "Midnight Choir",
+      "has_synced": false,
+      "path": "select/16_Unsung_Heroine_Midnight_Choir.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hero/Heroine",
+      "artist": "Boys Like Girls",
+      "has_synced": true,
+      "path": "select/17_Hero_Heroine_Boys_Like_Girls.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Heroine",
+      "artist": "Thornhill",
+      "has_synced": true,
+      "path": "select/18_Heroine_Thornhill.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "My Heroine",
+      "artist": "Silverstein",
+      "has_synced": true,
+      "path": "select/19_My_Heroine_Silverstein.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heroine",
+      "artist": "RIRIKO",
+      "has_synced": false,
+      "path": "select/pl_01_Heroine_RIRIKO.txt"
+    }
+  ]
+}
